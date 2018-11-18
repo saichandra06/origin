@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Pet-Clinic-Data
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Saichandra
+Implementation-Vendor-Id: com.saichandra
+Build-Jdk: 1.8.0_92
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Pet-Clinic/Pet-Clinic-Data
+Created-By: Maven Integration for Eclipse
+Main-Class: com.saichandra.demo.PetClinicApplication
+

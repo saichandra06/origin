@@ -1,0 +1,5 @@
+com\saichandra\model\Pet.class
+com\saichandra\model\Vet.class
+com\saichandra\model\Person.class
+com\saichandra\model\PetType.class
+com\saichandra\model\Owner.class
